@@ -55,8 +55,34 @@
 
 .res_container{
   display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.res_card_container{
+  display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  align-items: center;
+}
+
+.filter{
+ margin-left: 40%; 
+}
+
+.filter button{
+  height: 30px;
+  width: 90px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 5px;
+}
+
+.filter button:hover{
+  cursor: pointer;
+  color: brown;
+  background-color: aliceblue;
 }
 
 .search_box{

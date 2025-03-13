@@ -1,44 +1,62 @@
 export const resdetails = [
     {
       name:"Pizza hut",
-      ratings:"4.5",
+      ratings:4.5,
       image:"src/assets/image1.avif",
-      place:"nagawara"
+      place:"Nagawara"
     },
     {
       name:"Adil hote",
-      ratings:"4.3",
+      ratings:4.3,
       image:"src/assets/image2.avif",
-      place:"nagawara"
+      place:"Veerannapalya"
     },
     {
       name:"Dosa corner",
-      ratings:"4.6",
+      ratings:3,
       image:"src/assets/image3.avif",
-      place:"nagawara"
+      place:"Yelahanka"
     },
     {
       name:"Briyani corner",
-      ratings:"4.8",
+      ratings:4.8,
       image:"src/assets/image4.avif",
-      place:"nagawara"
+      place:"Yeswanthpur"
     },
     {
       name:"parotta corner",
-      ratings:"4.9",
+      ratings:4.9,
       image:"src/assets/image5.avif",
-      place:"nagawara"
+      place:"Vasanthnagar"
     },
     {
       name:"idly corner",
-      ratings:"4.2",
+      ratings:3.2,
       image:"src/assets/image6.avif",
-      place:"nagawara"
+      place:"HSR layout"
     },
     {
       name:"semiya corner",
-      ratings:"4.1",
+      ratings:5,
       image:"src/assets/image7.avif",
-      place:"nagawara"
-    }
+      place:"BTM layout"
+    },
+    {
+      name:"Maggie hut",
+      ratings:4.2,
+      image:"src/assets/image8.avif",
+      place:"Silk board"
+    },
+    {
+      name:"Appam ala",
+      ratings:5,
+      image:"src/assets/image9.avif",
+      place:"Madiwala"
+    },
+    {
+      name:"Vadakkan vilas",
+      ratings:3.8,
+      image:"src/assets/image10.avif",
+      place:"KSR"
+    },
   ]
