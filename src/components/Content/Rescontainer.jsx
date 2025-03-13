@@ -13,6 +13,10 @@ const Rescontainer = ()=>{
 
         <div className="filter">
         <button onClick={() =>{
+          setDetails(resdet)
+        }}>ALL</button>
+
+        <button onClick={() =>{
             resdet = resdet.filter((res) => res.ratings<4)
             setDetails(resdet)
           }}>Less rated</button>

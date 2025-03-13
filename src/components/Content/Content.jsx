@@ -4,7 +4,7 @@ import Rescontainer from './Rescontainer'
 
 function Content() {
   return (
-    <div>
+    <div className='content'>
       <Search/>
       <Rescontainer/>
     </div>
