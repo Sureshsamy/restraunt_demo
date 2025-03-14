@@ -5,9 +5,9 @@ import NavLink from './NavLink'
 function Header() {
   return (
     <div className='header'>
-      <Logo/>
+      <Logo />
       <div className='nav_items'>
-        <NavLink/>
+        <NavLink />
       </div>
       <div> </div>
     </div>

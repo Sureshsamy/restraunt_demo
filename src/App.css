@@ -110,3 +110,16 @@
   height: 25px;
 }
 
+.shimmer{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item{
+  height: 280px;
+  width: 250px;
+  background-color: grey;
+  border-radius: 10px;
+  margin: 10px;
+}
+

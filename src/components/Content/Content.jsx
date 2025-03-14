@@ -5,8 +5,8 @@ import Rescontainer from './Rescontainer'
 function Content() {
   return (
     <div className='content'>
-      <Search/>
-      <Rescontainer/>
+      <Search />
+      <Rescontainer />
     </div>
   )
 }
